@@ -1,3 +1,3 @@
 [submodule "part1"]
 	path = part1
-	url = ./part1
+	url = https://github.com/Juhoton/TDD-Mooc-Part1
